@@ -1,7 +1,7 @@
 👋 Hello, It's me Nishant Bhardwaj 
 
 🚀 **About Me**
-I am a **Pre-final year UnderGrad** at Galgotias University, passionate about leveraging **Artificial Intelligence**, **Machine Learning**, and **Cloud-Native Technologies** to solve complex real-world problems. With a proven track record in building **AI-powered applications**, contributing to **open-source projects**, and leading technical communities, I am committed to staying ahead of technological trends and driving innovation.
+I am a **Final year UnderGrad** at Galgotias University, passionate about leveraging **Artificial Intelligence**, **Machine Learning**, and **Cloud-Native Technologies** to solve complex real-world problems. With a proven track record in building **AI-powered applications**, contributing to **open-source projects**, and leading technical communities, I am committed to staying ahead of technological trends and driving innovation.
 
 ---
 
